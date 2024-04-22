@@ -7,6 +7,13 @@ Welcome to my submission for the Web Scraping Challenge in module 11 of the Data
 # Challenge Description
 In this challenge, we utilized web scraping techniques using tools like Beautiful Soup and Pandas to extract data from a provided website. The objective was to gather insights into Mars weather patterns and explore data from space missions. Through data analysis and visualization, we aimed to understand trends in Martian weather conditions and identify key factors influencing atmospheric pressure and temperature. Despite facing challenges in parsing HTML elements and handling missing data, we successfully extracted and analyzed the dataset. This project underscores the importance of web scraping in accessing real-time data for scientific research. 
 
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/e3d3cae9-a1d1-44cd-87b2-5a749686ae74)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/2fbbfa73-36f1-49a7-9e8c-7a7012ceb945)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/243eda73-a36f-43b2-ab3d-15bb3e77ac68)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/a6bafd57-e146-4c00-98dd-68373a495af8)
+
+
+
 
 
 
@@ -14,16 +21,18 @@ In this challenge, we utilized web scraping techniques using tools like Beautifu
 # Tools Used
 
 ![image](https://github.com/erinengle2024/python-challenge/assets/158017994/af2a5777-dbe6-4ba7-9bc5-70c93b2354da)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/afb2a124-27eb-4ddb-ad3a-2694b645c7f1)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/51f91ce4-e15e-4707-969b-81a9bbf1f83c)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/198f1ba5-fe99-4466-af25-9b7497bec1fc)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/caee63b7-f3c7-4d9f-978f-e4b574df3b5e)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/336e3dcb-432a-46fb-a58f-30c61a736374)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/06c45e70-1af8-4afb-aad8-49c7de62ac4b)
+ ![image](https://github.com/erinengle2024/python-challenge/assets/158017994/049eecce-046b-476a-bbab-c1f031a24fff)
 
-- jupyter lab
-- web driver
-- splinter
-- python
-- matplotlib
-- beautiful soup
-- terminal
-- html
-- pandas
+
+
+
+
 
 
   
@@ -43,32 +52,31 @@ In this challenge, we utilized web scraping techniques using tools like Beautifu
 # Resources Used
 
 Challenges I drew heavily from include the following:
- - A room full of queries exercise
- - The foreign keys challenge
- - The Data relationships challenge
- - The importing data challenge
- - The joins challenge
- - The creating tables challenge
+ - The Pandas Scrape Activity
+ - The Devtools Activity
+ - The Web Scrape Activity
+ - The Mars Facts Scrape Activity
+ - The Automated Web Scrape Activity
+ - The Multi Page Web Scrape Activity
 
 
 These challenges, in addition to the other challenges provided, helped teach us the following:
-- How to operate pgAdmin and create a schema
-- How to create a database, and tables
-- How to store results as views
-- How to look up database information using SQL syntax
+- How to connect to web browser
+- How to use the pandas library in combination with html
+- How to use the splinter/selenium library
+- Writing For Loops and filtering through data
+- Creating a session and scrapping multiple pages of content
 
-![Screenshot 2024-04-07 at 3 07 49 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/5e795526-fc0b-4a97-a047-4c7462ec0908)
-![Screenshot 2024-04-07 at 3 08 08 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/ac55ae92-d4f1-4f15-b35f-b7f9a9f4462c)
-![Screenshot 2024-04-07 at 3 08 24 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/3ca9da06-1e93-4bec-84ea-07485c5bab29)
-![Screenshot 2024-04-07 at 3 08 40 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/20898afe-3cec-4551-811f-ce46e65b5959)
-![Screenshot 2024-04-07 at 3 09 04 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/fdd4c0f5-4dd4-4060-896d-072738c87e18)
-
-
-
+ 
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/3ad92922-297d-4f1c-bfba-45e0a96756ad)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/c973213b-425e-4512-ab1c-8e9f86798ffc)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/dc2a6a03-bbea-4ff3-89ec-aa2b7f2d35b9)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/2b0cdd5b-df71-4141-a56c-85b40c8c8a7a)
+![image](https://github.com/erinengle2024/web-scraping-challenge/assets/158017994/f741a57e-b926-4c39-b23e-f3f30161d67d)
 
 
 
 
 
  ## Additional Resources
-For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, pgAdmin 4 Documentation, and ChatGPT.  
+For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Splinter and BeautifulSoup Documentation, and ChatGPT.  
